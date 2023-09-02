@@ -1,2 +1,2 @@
 # URL-Classification
-Malicious URL Detection using Machine Lerarning
+Malicious URL Detection using Machine Learning. This project is submitted as a thesis to GITAM University, Hyderabad.
